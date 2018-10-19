@@ -1,7 +1,7 @@
                Project Introduction
                                  PLAN EASY!LIVE EASY
 
-Welcome all,
+
 Hey Everyone!!  Our project is on Reminding and Task scheduling.Nowadays,life is quite busy and everyone have to remember each and 
 everything which is not possible without technology.Our main focus is to make people punctual and step towards their 
 goal with accuracy.If you are  very bad in time management;this app will help you to schedule your task and give  you reminders before the task that will inspire you with some motivational thoughts so that you can live  your life easily.
