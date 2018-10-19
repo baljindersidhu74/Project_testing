@@ -1,5 +1,5 @@
                Project Introduction
-                                  PLAN EASY!LIVE EASY
+                   App Name:               PLAN EASY!LIVE EASY
 
 Welcome all,
 Hey Everyone!!  Our project is on Reminding and Task scheduling.Nowadays,life is quite busy and everyone have to remember each and 
